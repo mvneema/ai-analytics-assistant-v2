@@ -19,7 +19,7 @@ AI-powered analytics assistant that converts natural language questions into SQL
 - Recharts (data visualization)
 - Lucide React (icons)
 - Tailwind CSS (styling)
-- Claude AI API (analysis)
+- Claude AI API (analysis) (not used for Demo-possible to add on production feature)
 
 ## 📦 Installation
 
@@ -30,7 +30,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-Deployed on Vercel: [Your URL Here]
+Deployed on Vercel: [[AI Analytics Assistant V2](https://ai-analytics-assistant-v2-euzcbi670-mvneemas-projects.vercel.app)]
 
 ## 📊 Demo Questions
 
@@ -53,7 +53,7 @@ MIT
 
 ## 👤 Author
 
-Neema - [LinkedIn](https://www.linkedin.com/in/your-profile)
+Neema - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/neema-mv/))
 
 Built as a portfolio project demonstrating:
 - AI integration (Claude API)
