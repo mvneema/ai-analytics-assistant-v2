@@ -11,6 +11,20 @@ AI-powered analytics assistant that converts natural language questions into SQL
 - **Export to HTML** - Download complete reports with embedded charts
 - **Highlight Boxes** - Color-coded key takeaways
 - **Demo Mode** - Works without API key using pre-built responses
+## ✨ What's New in v2.0
+
+### **Major Upgrades from v1.0:**
+
+| Feature | v1.0 | v2.0 |
+|---------|------|------|
+| **Query History** | ❌ None | ✅ Persistent sidebar with last 10 queries |
+| **SQL & Results Display** | Always visible | ✅ Collapsible - hide/show on demand |
+| **Data Visualizations** | Text only | ✅ Interactive bar & line charts |
+| **Export Capability** | ❌ None | ✅ HTML report with embedded charts |
+| **Key Highlights** | ❌ None | ✅ Color-coded insight boxes with CTAs |
+| **UI/UX** | Basic | ✅ Professional polish with v2.0 branding |
+
+[Rest of detailed explanations from the file above...]
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +67,7 @@ MIT
 
 ## 👤 Author
 
-Neema - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/neema-mv/))
+Neema - [LinkedIn](https://www.linkedin.com/in/neema-mv/)
 
 Built as a portfolio project demonstrating:
 - AI integration (Claude API)
